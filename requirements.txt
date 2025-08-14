@@ -1,3 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 flask==2.2.5
 opencv-python==4.8.0.76
 numpy==1.26.4
