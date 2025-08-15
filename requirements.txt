@@ -1,7 +1,7 @@
---extra-index-url https://download.pytorch.org/whl/cpu
-flask==2.2.5
 opencv-python==4.8.0.76
 numpy==1.26.4
-torch>=2.2.0,<2.3
-torchvision==0.15.2
 gunicorn
+flask
+torch==2.3.0+cpu
+torchvision==0.18.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
